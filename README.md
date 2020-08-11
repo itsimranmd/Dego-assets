@@ -2,6 +2,8 @@
 
 This is my first design project. "Designed products on the go". I loved building this one. I've ensured the animations and transitions are smooth and just right.
 
+Checkout the preview - https://youtu.be/3MEBDPj8Xww
+
 Here are some of the screenshots
 <img width="953" alt="Screenshot 2020-06-13 at 8 54 45 PM" src="https://user-images.githubusercontent.com/62325347/89815288-29a24600-db62-11ea-8785-615892658c52.png">
 
